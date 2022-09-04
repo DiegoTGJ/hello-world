@@ -4,7 +4,7 @@
     <p>Llena el formulario para crear una cuenta.</p>
     <hr>
 
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Entre su nombre</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
