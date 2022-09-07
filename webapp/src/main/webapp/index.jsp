@@ -4,19 +4,19 @@
     <p>Llena el formulario para crear una cuenta.</p>
     <hr>
 
-    <label for="Name"><b>Entre su nombre</b></label>
+    <label for="Name"><b>Ingrese su nombre</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="mobile"><b>Entrar telefono</b></label>
+    <label for="mobile"><b>Ingrese telefono</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Ingrese su email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Contrase&ntildea</b></label>
+    <label for="psw"><b>Contrase&ntilde;a</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
